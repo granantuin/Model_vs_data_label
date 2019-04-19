@@ -10,7 +10,7 @@ Improving meteorological models accuracy with machine learning Classification
 
 ***Improving results***
 
-[Linear Regression](https://github.com/granantuin/model_vs_data_station/blob/master/Linearregresion.ipynb)
+[Random Forest](https://github.com/granantuin/model_vs_data_label/blob/master/randomforest.ipynb)
 
 [Tensorflow](https://github.com/granantuin/model_vs_data_station/blob/master/ml_tf.ipynb)
 
