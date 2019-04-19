@@ -12,7 +12,7 @@ Improving meteorological models accuracy with machine learning Classification
 
 [Random Forest](https://github.com/granantuin/model_vs_data_label/blob/master/randomforest.ipynb)
 
-[Tensorflow](https://github.com/granantuin/model_vs_data_station/blob/master/ml_tf.ipynb)
+[Tensorflow](https://github.com/granantuin/model_vs_data_label/blob/master/tensorflow_label.ipynb)
 
 [Supported Vector Regression](https://github.com/granantuin/model_vs_data_station/blob/master/SVR.ipynb)
 
