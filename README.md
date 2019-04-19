@@ -14,6 +14,6 @@ Improving meteorological models accuracy with machine learning Classification
 
 [Tensorflow](https://github.com/granantuin/model_vs_data_label/blob/master/tensorflow_label.ipynb)
 
-[Supported Vector Regression](https://github.com/granantuin/model_vs_data_station/blob/master/SVR.ipynb)
+[All class intensive](https://github.com/granantuin/model_vs_data_label/blob/master/qll_class.ipynb)
 
-[Gauss Naive Bayes](https://github.com/granantuin/model_vs_data_station/blob/master/Gaus.ipynb)
+
