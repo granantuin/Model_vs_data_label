@@ -9,10 +9,8 @@ Improving meteorological models accuracy with machine learning Classification
 
 ***Wind direction***
 
+[Display model Results](https://github.com/granantuin/Model_vs_station_classification/blob/master/Display_data_model_label_dir.ipynb)
 
+[Four classifiers](https://github.com/granantuin/Model_vs_station_classification/blob/master/four_class_thershold_dir.ipynb)
 
-[Tensorflow](https://github.com/granantuin/Model_vs_station_classification/blob/master/Display_data_model_label_dir.ipynb)
-
-[All class intensive](https://github.com/granantuin/model_vs_data_label/blob/master/all_class.ipynb)
-
-
+[Tensorflow](https://github.com/granantuin/Model_vs_station_classification/blob/master/tensorflow_label_dir.ipynb)
