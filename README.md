@@ -15,7 +15,7 @@ Improving meteorological models accuracy with machine learning Classification
 
 [Tensorflow](https://github.com/granantuin/Model_vs_station_classification/blob/master/tensorflow_label_dir.ipynb)
 
-***wind speed***
+***Wind speed***
 
 [Display model Results](https://github.com/granantuin/Model_vs_station_classification/blob/master/Display_data_model_label_spd.ipynb)
 
