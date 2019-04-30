@@ -1,4 +1,4 @@
-# Model_vs_data_label
+# Model_vs_station_classification
 
 
 Improving meteorological models accuracy with machine learning Classification
@@ -6,7 +6,7 @@ Improving meteorological models accuracy with machine learning Classification
 *J.Robinat*
 
 
-[Display differences model and station label](https://github.com/granantuin/Model_vs_data_label/blob/master/Display_data_model_label.ipynb)
+[Model wrf meteogalicia](https://github.com/granantuin/Model_vs_data_station_classification/blob/master/http://mapas.intecmar.gal/plancamgal/)
 
 ***Improving results***
 
