@@ -9,7 +9,7 @@ Improving meteorological models accuracy with machine learning Classification
 
 ***Wind direction***
 
-[Display Model WRF 4Km Results](https://github.com/granantuin/Model_vs_station_classification/blob/master/Display_data_model_label_dir.ipynb
+
 
 [Tensorflow](https://github.com/granantuin/model_vs_data_label/blob/master/tensorflow_label.ipynb)
 
