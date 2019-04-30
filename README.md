@@ -6,7 +6,7 @@ Improving meteorological models accuracy with machine learning Classification
 *J.Robinat*
 
 
-[Model wrf meteogalicia](https://github.com/granantuin/Model_vs_data_station_classification/blob/master/http://mapas.intecmar.gal/plancamgal/)
+[Model wrf meteogalicia](http://mapas.intecmar.gal/plancamgal/)
 
 ***Improving results***
 
